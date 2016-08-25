@@ -6,9 +6,9 @@ color:
   saturation: 0.8161120696458966
   rhythmicContrast: 0.4118016245774925
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: My First Grid Site
