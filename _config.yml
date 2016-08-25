@@ -1,0 +1,14 @@
+layout_spectrum: 0.9723796010948718
+typography_spectrum: 0.91392967174761
+color:
+  brandStrength: 0.3383354127872735
+  lightness: 0.3977689850144088
+  saturation: 0.8161120696458966
+  rhythmicContrast: 0.4118016245774925
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: My First Grid Site
